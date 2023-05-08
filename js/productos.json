@@ -1,0 +1,185 @@
+[
+    {
+        "id": "cactus-01",
+        "titulo": "Cactus 01",
+        "imagen": "./img/cactus/cactus01.jpeg",
+        "categoria": {
+            "nombre": "Cactus",
+            "id": "cactus"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cactus-02",
+        "titulo": "Cactus 02",
+        "imagen": "./img/cactus/cactus02.jpeg",
+        "categoria": {
+            "nombre": "Cactus",
+            "id": "cactus"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cactus-03",
+        "titulo": "Cactus 03",
+        "imagen": "./img/cactus/cactus03.jpeg",
+        "categoria": {
+            "nombre": "Cactus",
+            "id": "cactus"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "suculenta-01",
+        "titulo": "Suculenta 01",
+        "imagen": "./img/suculentas/suculenta01.jpeg",
+        "categoria": {
+            "nombre": "Suculentas",
+            "id": "suculentas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "suculenta-02",
+        "titulo": "Suculenta 02",
+        "imagen": "./img/suculentas/suculenta02.jpeg",
+        "categoria": {
+            "nombre": "Suculentas",
+            "id": "suculentas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "suculenta-03",
+        "titulo": "Suculenta 03",
+        "imagen": "./img/suculentas/suculenta03.jpeg",
+        "categoria": {
+            "nombre": "Suculentas",
+            "id": "suculentas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "suculenta-04",
+        "titulo": "Suculenta 04",
+        "imagen": "./img/suculentas/suculenta04.jpeg",
+        "categoria": {
+            "nombre": "Suculentas",
+            "id": "suculentas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "suculenta-05",
+        "titulo": "Suculenta 05",
+        "imagen": "./img/suculentas/suculenta05.jpeg",
+        "categoria": {
+            "nombre": "Suculentas",
+            "id": "suculentas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "suculenta-06",
+        "titulo": "Suculenta 06",
+        "imagen": "./img/suculentas/suculenta06.jpeg",
+        "categoria": {
+            "nombre": "Suculentas",
+            "id": "suculentas"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "coleccion-01",
+        "titulo": "colección 01",
+        "imagen": "./img/coleccion/coleccion01.png",
+        "categoria": {
+            "nombre": "Colección",
+            "id": "coleccion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-02",
+        "titulo": "colección 02",
+        "imagen": "./img/coleccion/coleccion02.png",
+        "categoria": {
+            "nombre": "Colección",
+            "id": "coleccion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-03",
+        "titulo": "colección 03",
+        "imagen": "./img/coleccion/coleccion03.png",
+        "categoria": {
+            "nombre": "Colección",
+            "id": "coleccion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-04",
+        "titulo": "colección 04",
+        "imagen": "./img/coleccion/coleccion04.png",
+        "categoria": {
+            "nombre": "Colección",
+            "id": "coleccion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-05",
+        "titulo": "colección 05",
+        "imagen": "./img/coleccion/coleccion05.png",
+        "categoria": {
+            "nombre": "Colección",
+            "id": "coleccion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-06",
+        "titulo": "colección 06",
+        "imagen": "./img/coleccion/coleccion06.png",
+        "categoria": {
+            "nombre": "Colección",
+            "id": "coleccion"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "porMayor-01",
+        "titulo": "Por mayor 01",
+        "imagen": "./img/porMayor/porMayor01.jpeg",
+        "categoria": {
+            "nombre": "Por mayor",
+            "id": "porMayor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "porMayor-02",
+        "titulo": "Por mayor 02",
+        "imagen": "./img/porMayor/porMayor02.jpeg",
+        "categoria": {
+            "nombre": "Por mayor",
+            "id": "porMayor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "porMayor-03",
+        "titulo": "Por mayor 03",
+        "imagen": "./img/porMayor/porMayor03.jpeg",
+        "categoria": {
+            "nombre": "Por mayor",
+            "id": "porMayor"
+        },
+        "precio": 1000
+    }
+]
